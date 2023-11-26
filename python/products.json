@@ -1,0 +1,2200 @@
+{
+  "products": {
+    "page": 1,
+    "per_page": 20,
+    "data": [
+      {
+        "searchable_id": "279300",
+        "images": [
+          "/storage/products/HaxbPzUXcPI1mCtlOwRNu9egVogfh7XzYFAHuC6z.webp",
+          "/storage/products/pXdush9qKP27tBHZ3CnCOsACj3hRyqZPWG43C2ne.webp",
+          "/storage/products/APSC4nowlkyGg1ksJL1fJDesDBrFqtzRrVhTLgaL.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: koza48% sint mat13% tekstil39% /plastika58% guma42<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-26 12:15:04",
+        "hero": "/storage/products/UTB2Dbf3EoeaBBACfPqEVok6Kn62bF23UgYhYgaU.webp",
+        "price_updated_at": "2023-11-15T13:05:32Z",
+        "updated_at": "2023-10-26 12:19:26",
+        "first_price": 199,
+        "price": 199,
+        "original_name": "M PATIKE LS NIKE AIR MAX SC WHITE/WOLF GREY-UNIV R",
+        "name": "Muške patike AIR MAX",
+        "sku": "CW4555-107",
+        "id": 279300,
+        "hero_thumb": "/rubberband/thumb/products/UTB2Dbf3EoeaBBACfPqEVok6Kn62bF23UgYhYgaU.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 199,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "279312",
+        "images": [
+          "/storage/products/r93JqcUIChq8Q1yvVwn8iScos2rqQ7Teb9xTyNJO.webp",
+          "/storage/products/72Q4D0EGJk7jj83rpy4BQ4pdeWVEvxnk8ed85b8H.webp",
+          "/storage/products/28NB9j43lHCL1D1rQl9fadsdeqkjDzpU40BtsXie.webp",
+          "/storage/products/063myj9COnibhfEdEV7SkYnQWZhvAmvjoBJs8pEu.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: koza48% sint mat13% tekstil39%/plastika100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-26 12:15:04",
+        "hero": "/storage/products/GnHgB1WYROzQ9K8EiqDHiy5RLyCKmRafjasq1BN4.webp",
+        "price_updated_at": "2023-11-15T13:05:33Z",
+        "updated_at": "2023-10-26 12:19:26",
+        "first_price": 199,
+        "price": 199,
+        "original_name": "M PATIKE LS NIKE AIR MAX SC OBSIDIAN/PHOTON DUST-M",
+        "name": "Muške patike AIR MAX",
+        "sku": "CW4555-400",
+        "id": 279312,
+        "hero_thumb": "/rubberband/thumb/products/GnHgB1WYROzQ9K8EiqDHiy5RLyCKmRafjasq1BN4.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 199,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "279344",
+        "images": [
+          "/storage/products/GDjzV6DdZTR7p2qTNKS937lmBu22yaJbyrwmetvU.webp",
+          "/storage/products/EbFs0jUIOwXZDu2RtOUYbYDQ3kpBDWDXrlaSed5v.webp",
+          "/storage/products/W7dhoLj4q7lR4YsseLkhyChYoJCQzf7dWpEroQ3C.webp",
+          "/storage/products/PWqm9jj9AIIdrWqksjV6fNKvNn1I0W7HdzrnGT4t.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: koza59% sint mat41% /plastika58% guma42%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-26 12:15:04",
+        "hero": "/storage/products/XFOSSjL1KnS3Y2iWfCv1OkyIgMBAH3JIZV25oYO3.webp",
+        "price_updated_at": "2023-11-15T13:07:07Z",
+        "updated_at": "2023-10-26 12:19:26",
+        "first_price": 199,
+        "price": 199,
+        "original_name": "M PATIKE LS NIKE AIR MAX SC LEA WHITE/WHITE-WHITE",
+        "name": "Muške patike AIR MAX",
+        "sku": "DH9636-101",
+        "id": 279344,
+        "hero_thumb": "/rubberband/thumb/products/XFOSSjL1KnS3Y2iWfCv1OkyIgMBAH3JIZV25oYO3.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 199,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "279417",
+        "images": [
+          "/storage/products/lxmj7ud3PGaBv97a7M1QpkesQ7D5Navd4oztVCWz.webp",
+          "/storage/products/YTzkCVtGlEiihNT4QV38tSNpV8i8PThflxMZL2vn.webp",
+          "/storage/products/O1iMcIYWavUTznDRkuXCz56yHC38koQ8L0Aftpmm.webp",
+          "/storage/products/eM1JCH29EcZ5UdUJoAuAR7cpdLWheoT1Xv0sUqAK.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike  AIR MAX SYSTM PHOTON"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: koza37% sint mat32% tekstil31%/guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Indija<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-26 12:15:04",
+        "hero": "/storage/products/ft68V2CJa09HK6FRbZjImHgjPQDlMnm5udLyhtxd.webp",
+        "price_updated_at": "2023-11-15T13:07:40Z",
+        "first_price": 239,
+        "updated_at": "2023-10-26 12:19:26",
+        "price": 239,
+        "original_name": "M PATIKE LS NIKE AIR MAX SYSTM PHOTON DUST/OBSIDIA",
+        "name": "Muške patike  AIR MAX SYSTM PHOTON",
+        "sku": "DM9537-013",
+        "id": 279417,
+        "hero_thumb": "/rubberband/thumb/products/ft68V2CJa09HK6FRbZjImHgjPQDlMnm5udLyhtxd.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 239,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "270656",
+        "images": [
+          "/storage/products/CFNk70DCtYfhbCLFdYMbuH1VqSMzIiUsHUrhafG5.webp",
+          "/storage/products/7G8C85JK2fw7fDgg5rnjVpYUZUPULZwe3d3nJvp6.webp",
+          "/storage/products/eAsKhproNgzOVs1BRdW1gh5VOj7zu9Uxeq5zqGAF.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike VAPOR 15 CLUB"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: sint mat100%/guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/naW0XaTp9VFpQSNV8CfV7Jz2vNgd2u2V8ZOtGLBC.webp",
+        "price_updated_at": "2023-11-15T13:07:17Z",
+        "first_price": 99,
+        "updated_at": "2023-10-02 13:47:37",
+        "price": 99,
+        "original_name": "DJ PS PATIKA TURF JR VAPOR 15 CLUB TF PS V",
+        "name": "Dječije patike VAPOR 15 CLUB",
+        "sku": "DJ5966-040",
+        "id": 270656,
+        "hero_thumb": "/rubberband/thumb/products/naW0XaTp9VFpQSNV8CfV7Jz2vNgd2u2V8ZOtGLBC.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 99,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "274826",
+        "images": [
+          "/storage/products/orhVpenrFPxBf6fpb3BGBxNZrSvcEnYifTMuAlob.webp",
+          "/storage/products/mM4TudQtmf3okUlyleeytFifp8JaLb2ZioyYG7VO.webp",
+          "/storage/products/qZotPGf02B0pdOK5ghVsDR19ZMW8rJDXZqGshvbW.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike COURT ROYALE"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: sint mat98% tekstil2%/guma100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Indonezija<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/C31s9YDXoIaoobNrPEiZWN98DuVIz9yXLXXqnrxw.webp",
+        "price_updated_at": "2023-11-15T13:07:01Z",
+        "updated_at": "2023-10-02 13:47:37",
+        "first_price": 155,
+        "price": 155,
+        "original_name": "M PATIKE LS NIKE COURT ROYALE 2 NN",
+        "name": "Muške patike COURT ROYALE",
+        "sku": "DH3160-001",
+        "id": 274826,
+        "hero_thumb": "/rubberband/thumb/products/C31s9YDXoIaoobNrPEiZWN98DuVIz9yXLXXqnrxw.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 155,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "274839",
+        "images": [
+          "/storage/products/V2zbc6283tWPLWe8xOalrLPgPs5s1lQ9ANzEmBSC.webp",
+          "/storage/products/94ELqrQnhjtz6xttJ0fQlqX1isc7eM27YL2II9F0.webp",
+          "/storage/products/r7GLekJIBroj18XviREdG8lWZe7MPkzjtyf17PXe.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: tekstil100%/guma100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/hc0rveC0hFzPL73FydmXPDDBoKjQ2dKhlENaoXxU.webp",
+        "price_updated_at": "2023-11-15T13:07:06Z",
+        "updated_at": "2023-10-02 13:48:00",
+        "first_price": 129,
+        "price": 129,
+        "original_name": "DJ PS M PATIKE LS NIKE AIR MAX INTRLK LITE BP",
+        "name": "Dječije patike AIR MAX",
+        "sku": "DH9394-200",
+        "id": 274839,
+        "hero_thumb": "/rubberband/thumb/products/hc0rveC0hFzPL73FydmXPDDBoKjQ2dKhlENaoXxU.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 129,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "274848",
+        "images": [
+          "/storage/products/NnMqs5yOm73JBsYAsfc5Yzxt6CjMTAZGzEU7N3qV.webp",
+          "/storage/products/7fn8afqaw1fdaGbtjEkwKDUrJftEk6l63VFAMVdT.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: koza48% sint mat13% tekstil39%/plastika100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/6liC5niktORTZuDvFnFFmVbbK9BsXAjAoK3erC2K.webp",
+        "price_updated_at": "2023-11-15T13:05:32Z",
+        "updated_at": "2023-10-02 13:48:00",
+        "first_price": 199,
+        "price": 199,
+        "original_name": "M PATIKE LS NIKE AIR MAX SC",
+        "name": "Muške patike AIR MAX",
+        "sku": "CW4555-014",
+        "id": 274848,
+        "hero_thumb": "/rubberband/thumb/products/6liC5niktORTZuDvFnFFmVbbK9BsXAjAoK3erC2K.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 199,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "274861",
+        "images": [
+          "/storage/products/pixATOAoJ1zUdUjrblgDiWGT7dD4o0EJRXYNIjnN.webp",
+          "/storage/products/jQoTiQuZFXLfEsdi77qtrvDZ3l4nY41zG97cpw98.webp",
+          "/storage/products/kxqkIB56Y89N7lEm1KqNekb29huHLxT0mzWI34PK.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike  PHANTOM"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: sint mat100%/guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/u79WFO02DPtsLGimX4sdgvR8dWHvzHWfUIx3QHPz.webp",
+        "price_updated_at": "2023-11-15T13:06:55Z",
+        "updated_at": "2023-10-02 13:48:00",
+        "first_price": 129,
+        "price": 129,
+        "original_name": "M PATIKA TURF PHANTOM GX CLUB TF",
+        "name": "Muške patike  PHANTOM",
+        "sku": "DD9486-040",
+        "id": 274861,
+        "hero_thumb": "/rubberband/thumb/products/u79WFO02DPtsLGimX4sdgvR8dWHvzHWfUIx3QHPz.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 129,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "274899",
+        "images": [
+          "/storage/products/th9dHhnT5skGVfG9SBeBzn7G5YDwmh14qecMZC6U.webp",
+          "/storage/products/xCg1CZ7cDbD7pGsczPt8VIyKdAKPjosQepYbj3Y3.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: tekstil100% /guma100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/GGfcQjj9v3RwCo8E53gVPEIRsM6B7pJMrI0JkIKN.webp",
+        "price_updated_at": "2023-11-15T13:07:06Z",
+        "updated_at": "2023-10-02 13:48:00",
+        "first_price": 135,
+        "price": 129,
+        "original_name": "DJ PATIKE LS M PS NIKE AIR MAX INTRLK LITE BP BLAC",
+        "name": "Dječije patike AIR MAX",
+        "sku": "DH9394-002",
+        "id": 274899,
+        "hero_thumb": "/rubberband/thumb/products/GGfcQjj9v3RwCo8E53gVPEIRsM6B7pJMrI0JkIKN.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 135,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "274932",
+        "images": [
+          "/storage/products/mKVdPqbNzY26uSUUFnsq8ZXAMagDwUUtpMvIFsZK.webp",
+          "/storage/products/AANq4gxYNWrKsh1BFdUHuY2QNJkOpWziEJKq9qBO.webp",
+          "/storage/products/ghrnIgHrKwM0UlsiJCOsudZ7tQCkfjd5Uo7krxgL.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: tekstil100% /guma100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/5CXxB1bqJi8L9OQPGGFd9etnPakMM1xajFLk0cDn.webp",
+        "price_updated_at": "2023-11-15T13:07:05Z",
+        "updated_at": "2023-10-02 13:48:00",
+        "first_price": 169,
+        "price": 165,
+        "original_name": "DJ PATIKE LS M GS NIKE AIR MAX INTRLK LITE BG BLAC",
+        "name": "Dječije patike AIR MAX",
+        "sku": "DH9393-002",
+        "id": 274932,
+        "hero_thumb": "/rubberband/thumb/products/5CXxB1bqJi8L9OQPGGFd9etnPakMM1xajFLk0cDn.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 169,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "274945",
+        "images": [
+          "/storage/products/hjUHCyDquYYF5Ctg2234Zdv7enkO3o0beFqBw4Oz.webp",
+          "/storage/products/NdrExJutAHVrgzknreMTTDtvcHEq5pAcHJLCv4gE.webp",
+          "/storage/products/ALSNtEhLjkseYatyM8VFQKZ6tr0GLO7VwTLrvDci.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: tekstil100%/guma100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/ura9P1x5JE25aBjWtuycKlWM8IE37rpDW1G5Jktn.webp",
+        "price_updated_at": "2023-11-15T13:07:05Z",
+        "updated_at": "2023-10-02 13:48:00",
+        "first_price": 165,
+        "price": 165,
+        "original_name": "DJ GS M PATIKE LS NIKE AIR MAX INTRLK LITE BG",
+        "name": "Dječije patike AIR MAX",
+        "sku": "DH9393-200",
+        "id": 274945,
+        "hero_thumb": "/rubberband/thumb/products/ura9P1x5JE25aBjWtuycKlWM8IE37rpDW1G5Jktn.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 165,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "274988",
+        "images": [
+          "/storage/products/VprNP2yuAMdZ6vVcyHC4ESXUoobqvw4uhOhxsjHy.webp",
+          "/storage/products/ELWkDnvFy6otIZyT1770cQ6kktNr7euygcb0TDcI.webp",
+          "/storage/products/a5IsjJENjN2IMG2XBNNvvSyA0hRDBlca8T9Cbso1.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: koza37% sint mat32% tekstil31%/guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/CUCnxO4kxDZX7b9ltv9Q2gUkp3onRrblghzKHRVg.webp",
+        "price_updated_at": "2023-11-15T13:07:40Z",
+        "updated_at": "2023-10-02 13:48:13",
+        "first_price": 239,
+        "price": 239,
+        "original_name": "M PATIKE LS NIKE AIR MAX SYSTM",
+        "name": "Muške patike AIR MAX",
+        "sku": "DM9537-400",
+        "id": 274988,
+        "hero_thumb": "/rubberband/thumb/products/CUCnxO4kxDZX7b9ltv9Q2gUkp3onRrblghzKHRVg.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 239,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "275056",
+        "images": [
+          "/storage/products/t3LScNmsb0KNH9ZhMjzLX3u7NBrsFA2hXXrTcJoZ.webp",
+          "/storage/products/lncCM5ZDBO9ISxgzMyQjFZRyCpkQIqIfeWB6hIf3.webp",
+          "/storage/products/ay0F0Wq9YalIR3nhMnbR11EoLJyZzyeiG4Pp2wcf.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike AIR MAX TERRASCAPE"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: tekstil100% /guma100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/2GMNqjSTwbSr7iHepGZN3pQl8v9bAKiyMJHYmlHy.webp",
+        "price_updated_at": "2023-11-15T13:07:56Z",
+        "updated_at": "2023-10-02 13:48:13",
+        "first_price": 359,
+        "price": 345,
+        "original_name": "M PATIKE LS NIKE AIR MAX TERRASCAPE 90 NN",
+        "name": "Muške patike AIR MAX TERRASCAPE",
+        "sku": "DQ3987-002",
+        "id": 275056,
+        "hero_thumb": "/rubberband/thumb/products/2GMNqjSTwbSr7iHepGZN3pQl8v9bAKiyMJHYmlHy.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 359,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "275091",
+        "images": [
+          "/storage/products/ktlRleKUeGQ2ATYoEcPvJrlthfStlA7jEx6m8sHc.webp",
+          "/storage/products/DyGtEEuZQQJlFukEu5a3BOJAM5k1qolu9ODSc1Y5.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: koza40% sint mat35% tekstil25%/guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-10-02 13:17:50",
+        "hero": "/storage/products/FWwMef8PQAlMXUveIiZBI4SdzkEAxRUtghtTnvqa.webp",
+        "price_updated_at": "2023-11-15T13:07:52Z",
+        "updated_at": "2023-10-02 13:48:13",
+        "first_price": 185,
+        "price": 185,
+        "original_name": "DJ GS M PATIKE LS AIR MAX SYSTM BG",
+        "name": "Dječije patike AIR MAX",
+        "sku": "DQ0284-400",
+        "id": 275091,
+        "hero_thumb": "/rubberband/thumb/products/FWwMef8PQAlMXUveIiZBI4SdzkEAxRUtghtTnvqa.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 185,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "267667",
+        "images": [
+          "/storage/products/0NjQYpHrRVsjbsjvq0HSCjS5l2vPcrB5fapb3UOu.webp",
+          "/storage/products/ssgtTmJzLUSK4XHQdllBJU9ISjh0VqMAeR9Q7EZJ.webp",
+          "/storage/products/Tj6gG7MgNDH7IelycuMm2Ssv14osZjRnuGGsZwsS.webp",
+          "/storage/products/FwYcRAdQE566loJPEX4brWXiw3ctgawlRnRU7xix.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike PHANTOM"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: sintetika100% guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-08-15 14:08:24",
+        "hero": "/storage/products/LcWi3LYkwFL3e4y3c0J0nhwhhA7SGImZPbOrQt5M.webp",
+        "price_updated_at": "2023-11-15T13:06:58Z",
+        "updated_at": "2023-08-18 13:46:48",
+        "first_price": 109,
+        "price": 109,
+        "original_name": "DJ PATIKE TURF GS JR PHANTOM GX CLUB TF GS BLACK/C",
+        "name": "Dječije patike PHANTOM",
+        "sku": "DD9567-040",
+        "id": 267667,
+        "hero_thumb": "/rubberband/thumb/products/LcWi3LYkwFL3e4y3c0J0nhwhhA7SGImZPbOrQt5M.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 109,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "267674",
+        "images": [
+          "/storage/products/dAHTW1vc4cIOVkJsItwLc5GijAulI8viFUH4OIbZ.webp",
+          "/storage/products/U6Hv2sVeuIWYzeScwEPROL0iUxR4mxvpK5XKOkyv.webp",
+          "/storage/products/HuZsAWa3TRhxNowa2RSj0dYMZ9tHExVeizAf8nR3.webp",
+          "/storage/products/nxNokWSY7sgAJFlZ75FWKS5EMWiEqamAa6N4K1os.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike AIR MAX"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: tekstil100% guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-08-15 14:08:24",
+        "hero": "/storage/products/8UqOqxY85P9Y8KaFGb6VbNnS7LFOvKoxi2Bcp1Y1.webp",
+        "price_updated_at": "2023-11-15T13:07:06Z",
+        "updated_at": "2023-08-18 13:46:48",
+        "first_price": 99,
+        "price": 99,
+        "original_name": "DJ M PATIKE LS INF NIKE AIR MAX INTRLK LITE BT MED",
+        "name": "Dječije patike AIR MAX",
+        "sku": "DH9410-200",
+        "id": 267674,
+        "hero_thumb": "/rubberband/thumb/products/8UqOqxY85P9Y8KaFGb6VbNnS7LFOvKoxi2Bcp1Y1.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 99,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "267696",
+        "images": [
+          "/storage/products/KqaKe5olfzFw1lqW3GBDpWAnGSdOyloh3FlY1jV2.webp",
+          "/storage/products/gIKmiYT1rjKSku3tPFCD4JD1Ieho6OB5WiwHCdDV.webp",
+          "/storage/products/bf0zaS1GxySmCSm2ucQ3GDMQWin9D74zNSYEbFbu.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike ZOOM VAPOR 15"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: sintetika73% tekstil27% guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Indonezija<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-08-15 14:08:24",
+        "hero": "/storage/products/HFiTnJKZZjawfQYKBjI3W0Xl6vBcp8TgkOeMqjFG.webp",
+        "price_updated_at": "2023-11-15T13:07:11Z",
+        "first_price": 145,
+        "updated_at": "2023-08-23 08:57:31",
+        "price": 145,
+        "original_name": "DJ PATIKA GS TURF JR ZOOM VAPOR 15 ACADEMY TF BLAC",
+        "name": "Dječije patike ZOOM VAPOR 15",
+        "sku": "DJ5621-040",
+        "id": 267696,
+        "hero_thumb": "/rubberband/thumb/products/HFiTnJKZZjawfQYKBjI3W0Xl6vBcp8TgkOeMqjFG.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 145,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "267719",
+        "images": [
+          "/storage/products/1Ss840M0kQ9l1GTsHlsufJEXHZPPqAW1BYwAnvua.webp",
+          "/storage/products/pHYZBXficmD9IyqRqy5fncNE6Dr3spWdhVYQqWXm.webp",
+          "/storage/products/mWAyqgLebkGowngkZAXLjpzsOannDXUOG132Oe26.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Muške patike SUPERFLY 9"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: sintetika73% tekstil27% guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Indonezija<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-08-15 14:08:24",
+        "hero": "/storage/products/jCE133dvJzi7IIJzjKfFnJaffZWwhQCFXcI8FZVq.webp",
+        "price_updated_at": "2023-11-15T13:07:12Z",
+        "updated_at": "2023-08-18 13:46:48",
+        "first_price": 209,
+        "price": 209,
+        "original_name": "M PATIKE TURF MENS ZOOM SUPERFLY 9 ACADEMY TF BLAC",
+        "name": "Muške patike SUPERFLY 9",
+        "sku": "DJ5629-040",
+        "id": 267719,
+        "hero_thumb": "/rubberband/thumb/products/jCE133dvJzi7IIJzjKfFnJaffZWwhQCFXcI8FZVq.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 209,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      },
+      {
+        "searchable_id": "267752",
+        "images": [
+          "/storage/products/AhkXfTLX4dLhXa4ppl3sGmn2HsAY3A0YZ7ztLGLa.webp",
+          "/storage/products/U1sJ87OBYGHgVkhKVayTWKAi1iaP1CaZ9iSw8g0B.webp",
+          "/storage/products/ng9nu6But3e7EO7g92s3mujmbOvDmsi84E4kturg.webp",
+          "/storage/products/kyiSmeYk3QfXzjeBWfpNQHZ3syAUPIzioEIOrmyt.webp"
+        ],
+        "tabs": [
+          {
+            "title": "Opis",
+            "content": "Dječije patike SUPERFLY 9"
+          },
+          {
+            "title": "Deklaracija",
+            "content": "Sirovinski sastav: sintetika73% tekstil27% guma 100%<br>Održavanje: brisanje vlaznom/suhom krpom cetkanje<br>Zemlja porijekla: Vijetnam<br>Zemlja izvoza: Srbija<br>Proizvođač: Nike Colosseum 1 1213 Hilversum Netherlands<br>Godina uvoza:2023<br>Uvoznik: Jaćimović doo, Karađorđeva 83, 78000 Banja Luka/Bosna i Hercegovina"
+          }
+        ],
+        "active": 1,
+        "created_at": "2023-08-15 14:08:24",
+        "hero": "/storage/products/7eKL2yfV01pxgZ9jhJHswyrrfhx0Wmj52V0JRttu.webp",
+        "price_updated_at": "2023-11-15T13:07:14Z",
+        "updated_at": "2023-08-18 13:46:23",
+        "first_price": 119,
+        "price": 119,
+        "original_name": "DJ PATIKA TURF GS JR SUPERFLY 9 CLUB TF BLACK/CHRO",
+        "name": "Dječije patike SUPERFLY 9",
+        "sku": "DJ5954-040",
+        "id": 267752,
+        "hero_thumb": "/rubberband/thumb/products/7eKL2yfV01pxgZ9jhJHswyrrfhx0Wmj52V0JRttu.webp",
+        "badges": {
+          "2": {
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "position": "tr"
+          }
+        },
+        "brand_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+        "discount": 0,
+        "discount_amount": 0,
+        "original_price": 119,
+        "tags": [
+          {
+            "searchable_id": "88249",
+            "webshop_name": "Akcija  -20% na kompletan asortiman",
+            "updated_at": "2020-05-04 13:26:30",
+            "name": "20all",
+            "created_at": "2020-05-04 13:25:27",
+            "webshop_filter": 0,
+            "order": 1,
+            "id": 88249
+          },
+          {
+            "searchable_id": "231234",
+            "updated_at": "2023-08-12 10:04:32",
+            "name": "",
+            "created_at": "2023-08-12 10:04:32",
+            "id": 231234
+          },
+          {
+            "searchable_id": "235003",
+            "image": "/storage/tags/VYo9U5OPVcgI9rxVy9uOnFVW1v8SZr37omTVCj6k.png",
+            "webshop_name": "NOVA KOLEKCIJA",
+            "updated_at": "2023-08-23 15:30:26",
+            "name": "newfw23",
+            "created_at": "2023-01-24 12:01:15",
+            "webshop_filter": 1,
+            "position": "tr",
+            "order": 1,
+            "id": 235003
+          }
+        ],
+        "brand": {
+          "featured": 1,
+          "name": "NIKE",
+          "featured_navigation": 1,
+          "logo": "/storage/brands/ryJrSEt9toAF9sPkMIij88gmsAbJd0Q2nN6GQEwM.png",
+          "small_logo": "/storage/brands/itxpxh7apqSEV25Hz6Sv0VtHa6vKFID2CL6w2mb2.png",
+          "id": 2680
+        }
+      }
+    ],
+    "total": 93
+  },
+  "filters": {
+    "categories": {
+      "name": "Categories",
+      "key": "category_id",
+      "data": [
+        {
+          "id": "9537",
+          "name": "Obuća",
+          "count": 93,
+          "order": 0
+        }
+      ],
+      "config": {
+        "limit": 8,
+        "sort": "count"
+      }
+    },
+    "brands": {
+      "name": "Brands",
+      "key": "brand_id",
+      "data": [
+        {
+          "id": "147",
+          "name": "PUMA",
+          "count": 94,
+          "order": 2
+        },
+        {
+          "id": "148",
+          "name": "DIADORA",
+          "count": 1,
+          "order": 4
+        },
+        {
+          "id": "190",
+          "name": "KELME",
+          "count": 2,
+          "order": 7
+        },
+        {
+          "id": "193",
+          "name": "NEW BALANCE",
+          "count": 26,
+          "order": 0
+        },
+        {
+          "id": "196",
+          "name": "SKECHERS",
+          "count": 65,
+          "order": 4
+        },
+        {
+          "id": "1538",
+          "name": "RANG",
+          "count": 25,
+          "order": 0
+        },
+        {
+          "id": "2680",
+          "name": "NIKE",
+          "count": 93,
+          "order": 1
+        },
+        {
+          "id": "2681",
+          "name": "ADIDAS",
+          "count": 143,
+          "order": 0
+        },
+        {
+          "id": "2700",
+          "name": "CONVERSE",
+          "count": 4,
+          "order": 0
+        },
+        {
+          "id": "2707",
+          "name": "REEBOK",
+          "count": 5,
+          "order": 0
+        },
+        {
+          "id": "2710",
+          "name": "SAUCONY",
+          "count": 6,
+          "order": 0
+        },
+        {
+          "id": "17399",
+          "name": "ANTA",
+          "count": 2,
+          "order": 5
+        },
+        {
+          "id": "23447",
+          "name": "JOMA",
+          "count": 8,
+          "order": 0
+        },
+        {
+          "id": "112618",
+          "name": "REPLAY",
+          "count": 40,
+          "order": 0
+        },
+        {
+          "id": "132227",
+          "name": "GUESS",
+          "count": 9,
+          "order": 7
+        },
+        {
+          "id": "190674",
+          "name": "CRUYFF",
+          "count": 41,
+          "order": 8
+        },
+        {
+          "id": "194128",
+          "name": "LACOSTE",
+          "count": 11,
+          "order": 8
+        },
+        {
+          "id": "220633",
+          "name": "TIMBERLAND",
+          "count": 3,
+          "order": 0
+        }
+      ],
+      "config": {
+        "limit": 8,
+        "sort": "count"
+      }
+    },
+    "tags": {
+      "name": "Tags",
+      "key": "tag_id",
+      "data": [
+        {
+          "id": "235003",
+          "name": "NOVA KOLEKCIJA",
+          "count": 26,
+          "order": 1
+        }
+      ],
+      "config": {
+        "limit": 8,
+        "sort": "order"
+      }
+    },
+    "sex": {
+      "name": "Sex",
+      "key": "sex_id",
+      "data": [
+        {
+          "id": "8983",
+          "name": "Muškarci",
+          "count": 93,
+          "order": 0
+        },
+        {
+          "id": "9002",
+          "name": "Žene",
+          "count": 57,
+          "order": 0
+        },
+        {
+          "id": "9779",
+          "name": "Uniseks",
+          "count": 21,
+          "order": 0
+        }
+      ],
+      "config": {
+        "limit": 8,
+        "sort": "count"
+      }
+    },
+    "genders": {
+      "name": "Genders",
+      "key": "gender_id",
+      "data": [
+        {
+          "id": "8982",
+          "name": "Odrasli",
+          "count": 57,
+          "order": 0
+        },
+        {
+          "id": "9003",
+          "name": "Školski uzrast",
+          "count": 21,
+          "order": 0
+        },
+        {
+          "id": "9004",
+          "name": "Predškolski uzrast",
+          "count": 12,
+          "order": 0
+        },
+        {
+          "id": "9699",
+          "name": "Bebe",
+          "count": 3,
+          "order": 0
+        }
+      ],
+      "config": {
+        "limit": 8,
+        "sort": "count"
+      }
+    },
+    "types": {
+      "name": "Types",
+      "key": "type_id",
+      "data": [
+        {
+          "id": "8980",
+          "name": "Patike za trčanje",
+          "count": 18,
+          "order": 0
+        },
+        {
+          "id": "9000",
+          "name": "Patike lifestyle",
+          "count": 59,
+          "order": 0
+        },
+        {
+          "id": "9574",
+          "name": "Patike za trening",
+          "count": 11,
+          "order": 0
+        },
+        {
+          "id": "9653",
+          "name": "Patike Indoor",
+          "count": 45,
+          "order": 0
+        },
+        {
+          "id": "9657",
+          "name": "Patike turf",
+          "count": 34,
+          "order": 0
+        },
+        {
+          "id": "9951",
+          "name": "Patike za košarka",
+          "count": 29,
+          "order": 0
+        },
+        {
+          "id": "12322",
+          "name": "Patike za tenis",
+          "count": 9,
+          "order": 0
+        },
+        {
+          "id": "14294",
+          "name": "Papuče",
+          "count": 5,
+          "order": 0
+        },
+        {
+          "id": "17110",
+          "name": "Kopačke",
+          "count": 46,
+          "order": 0
+        }
+      ],
+      "config": {
+        "limit": 8,
+        "sort": "count"
+      }
+    },
+    "sizes": {
+      "name": "Sizes",
+      "key": "size_id",
+      "data": [
+        {
+          "id": "42.5",
+          "name": "42.5",
+          "count": 50,
+          "order": 0
+        },
+        {
+          "id": "48.5",
+          "name": "48.5",
+          "count": 21,
+          "order": 0
+        },
+        {
+          "id": "47.5",
+          "name": "47.5",
+          "count": 30,
+          "order": 0
+        },
+        {
+          "id": "45.5",
+          "name": "45.5",
+          "count": 51,
+          "order": 0
+        },
+        {
+          "id": "41",
+          "name": "41",
+          "count": 33,
+          "order": 0
+        },
+        {
+          "id": "43",
+          "name": "43",
+          "count": 55,
+          "order": 0
+        },
+        {
+          "id": "42",
+          "name": "42",
+          "count": 55,
+          "order": 0
+        },
+        {
+          "id": "47",
+          "name": "47",
+          "count": 54,
+          "order": 0
+        },
+        {
+          "id": "46",
+          "name": "46",
+          "count": 55,
+          "order": 0
+        },
+        {
+          "id": "45",
+          "name": "45",
+          "count": 54,
+          "order": 0
+        },
+        {
+          "id": "44.5",
+          "name": "44.5",
+          "count": 56,
+          "order": 0
+        },
+        {
+          "id": "44",
+          "name": "44",
+          "count": 55,
+          "order": 0
+        },
+        {
+          "id": "32",
+          "name": "32",
+          "count": 19,
+          "order": 0
+        },
+        {
+          "id": "31",
+          "name": "31",
+          "count": 12,
+          "order": 0
+        },
+        {
+          "id": "35",
+          "name": "35",
+          "count": 23,
+          "order": 0
+        },
+        {
+          "id": "33",
+          "name": "33",
+          "count": 19,
+          "order": 0
+        },
+        {
+          "id": "34",
+          "name": "34",
+          "count": 23,
+          "order": 0
+        },
+        {
+          "id": "28.5",
+          "name": "28.5",
+          "count": 5,
+          "order": 0
+        },
+        {
+          "id": "30",
+          "name": "30",
+          "count": 11,
+          "order": 0
+        },
+        {
+          "id": "28",
+          "name": "28",
+          "count": 8,
+          "order": 0
+        },
+        {
+          "id": "40",
+          "name": "40",
+          "count": 12,
+          "order": 0
+        },
+        {
+          "id": "31.5",
+          "name": "31.5",
+          "count": 4,
+          "order": 0
+        },
+        {
+          "id": "29.5",
+          "name": "29.5",
+          "count": 7,
+          "order": 0
+        },
+        {
+          "id": "27",
+          "name": "27",
+          "count": 5,
+          "order": 0
+        },
+        {
+          "id": "23.5",
+          "name": "23.5",
+          "count": 3,
+          "order": 0
+        },
+        {
+          "id": "22",
+          "name": "22",
+          "count": 3,
+          "order": 0
+        },
+        {
+          "id": "21",
+          "name": "21",
+          "count": 1,
+          "order": 0
+        },
+        {
+          "id": "26",
+          "name": "26",
+          "count": 3,
+          "order": 0
+        },
+        {
+          "id": "25",
+          "name": "25",
+          "count": 3,
+          "order": 0
+        },
+        {
+          "id": "36.5",
+          "name": "36.5",
+          "count": 12,
+          "order": 0
+        },
+        {
+          "id": "38",
+          "name": "38",
+          "count": 22,
+          "order": 0
+        },
+        {
+          "id": "36",
+          "name": "36",
+          "count": 21,
+          "order": 0
+        },
+        {
+          "id": "38.5",
+          "name": "38.5",
+          "count": 18,
+          "order": 0
+        },
+        {
+          "id": "39",
+          "name": "39",
+          "count": 11,
+          "order": 0
+        },
+        {
+          "id": "37.5",
+          "name": "37.5",
+          "count": 10,
+          "order": 0
+        },
+        {
+          "id": "27.5",
+          "name": "27.5",
+          "count": 1,
+          "order": 0
+        }
+      ],
+      "config": {
+        "limit": 8,
+        "sort": "name"
+      }
+    },
+    "families": {
+      "name": "Families",
+      "key": "family_id",
+      "data": [
+        {
+          "id": "9540",
+          "name": "Lifestyle",
+          "count": 1,
+          "order": 0
+        },
+        {
+          "id": "9654",
+          "name": "Fudbal",
+          "count": 34,
+          "order": 0
+        },
+        {
+          "id": "83260",
+          "name": "Life Style",
+          "count": 59,
+          "order": 0
+        }
+      ],
+      "config": {
+        "limit": 4,
+        "sort": "count"
+      }
+    },
+    "colors": {
+      "name": "Colors",
+      "key": "color_id",
+      "data": [
+        {
+          "id": "9384",
+          "name": "Siva",
+          "count": 5,
+          "order": 0
+        },
+        {
+          "id": "9394",
+          "name": "Crna",
+          "count": 36,
+          "order": 0
+        },
+        {
+          "id": "10388",
+          "name": "Bijela",
+          "count": 27,
+          "order": 0
+        },
+        {
+          "id": "10409",
+          "name": "Teget",
+          "count": 6,
+          "order": 0
+        },
+        {
+          "id": "10532",
+          "name": "Multicolor",
+          "count": 1,
+          "order": 0
+        },
+        {
+          "id": "10542",
+          "name": "Ljubicasta",
+          "count": 1,
+          "order": 0
+        },
+        {
+          "id": "11104",
+          "name": "Crvena",
+          "count": 2,
+          "order": 0
+        },
+        {
+          "id": "11374",
+          "name": "Plava",
+          "count": 5,
+          "order": 0
+        },
+        {
+          "id": "11629",
+          "name": "Bez",
+          "count": 1,
+          "order": 0
+        },
+        {
+          "id": "13303",
+          "name": "Zuta",
+          "count": 5,
+          "order": 0
+        },
+        {
+          "id": "148443",
+          "name": "Zlatna",
+          "count": 4,
+          "order": 0
+        }
+      ],
+      "config": {
+        "limit": 8,
+        "sort": "count"
+      }
+    }
+  }
+}
