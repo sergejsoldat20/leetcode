@@ -8,3 +8,11 @@ Za valid tree, dovoljno je provjeriti ima li n-1 grana i da li se moze doci do s
 od pocetka
 
 ## ISTRAZI UNION FIND ALGORITAM
+
+## Odradjeni zadaci
+
+- sell stock
+- reverse linked list
+- num of islands - medium
+- container with most water
+- longest increasing subsequence
